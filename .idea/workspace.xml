@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3ef0971-a5ac-49f8-a0b8-ce4977d64846" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/app/dashboard/invoices/error.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/dashboard/invoices/error.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/lib/actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/lib/actions.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ui/invoices/create-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/ui/invoices/create-form.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/auth.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +16,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2ztmWx5BqwWlBIp2B8JGoq4QS3C" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,7 +29,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feat/accessibility",
+    "git-widget-placeholder": "authentication",
     "js.debugger.nextJs.config.created.client": "true",
     "js.debugger.nextJs.config.created.server": "true",
     "junie.onboarding.icon.badge.shown": "true",
@@ -76,6 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1752558778697</updated>
       <workItem from="1752558780256" duration="8110000" />
+      <workItem from="1753075536764" duration="865000" />
     </task>
     <servers />
   </component>
